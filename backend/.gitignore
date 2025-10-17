@@ -1,0 +1,27 @@
+# Build files
+/build
+/target
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Dependency directories
+.gradle/
+.mvn/
+
+# Compiled Java class files
+*.class
+
+# Log files
+*.log
+
+# Packaged archives
+*.jar
+*.war
+*.ear
+
+# Sensitive properties
+application.properties
