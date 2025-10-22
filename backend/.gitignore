@@ -1,27 +1,13 @@
-# Build files
-/build
-/target
+# Build folder
+/target/
 
-# IDE files
+# IntelliJ IDEA specific files
 .idea/
 *.iml
-*.ipr
 *.iws
 
-# Dependency directories
-.gradle/
-.mvn/
-
-# Compiled Java class files
+# Compiled class file
 *.class
 
-# Log files
+# Log file
 *.log
-
-# Packaged archives
-*.jar
-*.war
-*.ear
-
-# Sensitive properties
-application.properties
